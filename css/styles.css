@@ -216,7 +216,7 @@ section.repo-data {
 
 .repo-data .visit:hover {
     background-color: rgb(67, 117, 75);
-    border: 2px solid rgb(214, 140, 69)
+    border: 2px solid rgb(214, 140, 69);
 }
 
 .button-container {
